@@ -1,4 +1,4 @@
-# contracts
+# Smart Contracts
 
 Example of Smart Contracts of Token0x
 
